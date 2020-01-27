@@ -1,0 +1,13 @@
+C:\Users\wsa_ext303035\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\wsa_ext303035\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\wsa_ext303035\source\repos\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\wsa_ext303035\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+C:\Users\wsa_ext303035\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\wsa_ext303035\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\wsa_ext303035\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+D:\Csharp codes 1\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Csharp codes 1\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Csharp codes 1\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Csharp codes 1\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojAssemblyReference.cache
+D:\Csharp codes 1\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Csharp codes 1\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
